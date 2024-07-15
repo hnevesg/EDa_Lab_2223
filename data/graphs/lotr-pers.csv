@@ -1,0 +1,76 @@
+﻿id;type;subtype;name;gender;FreqSum
+andu;pla;pla;Anduin;;109
+arag;per;men;Aragorn;male;1069
+arat;per;men;Arathorn;male;36
+arwe;per;elves;Arwen;female;51
+bage;pla;pla;Bag End;;77
+bali;per;dwarf;Balin;male;30
+bere;per;men;Beregond;male;77
+bilb;per;hobbit;Bilbo;male;385
+bill;per;animal;Bill;male;45
+boro;per;men;Boromir;male;293
+bree;pla;pla;Bree;;164
+cele;per;elves;Celeborn;male;51
+comp;gro;mixed;Company;;160
+dene;per;men;Denethor;male;168
+dtow;pla;pla;Dark Tower;;33
+duri;per;dwarf;Durin;male;54
+dwar;gro;dwarf;Dwarves;;122
+edor;pla;pla;Edoras;;55
+elen;per;men;Elendil;male;89
+elro;per;elves;Elrond;male;240
+elve;gro;elves;Elves;;292
+ents;gro;ents;Ents;;136
+eome;per;men;Eomer;male;238
+eorl;per;men;Eorl;male;56
+eowy;per;men;Eowyn;female;115
+oldf;pla;pla;Old Forest;;19
+mirk;pla;pla;Mirkwood;;58
+fara;per;men;Faramir;male;313
+frod;per;hobbit;Frodo;male;2040
+gala;per;elves;Galadriel;female;95
+ganda;per;ainur;Gandalf;male;1235
+gber;per;ainur;Goldberry;female;32
+gild;per;elves;Gildor;male;32
+gimli;per;dwarf;Gimli;male;403
+gloi;per;dwarf;Glon;male;52
+glorf;per;elves;Glorfindel;male;43
+goll;per;hobbit;Gollum;male;581
+gond;pla;pla;Gondor;;442
+gorb;per;orcs;Gorbag;male;30
+grim;per;men;Wormtongue;male;65
+hald;per;elves;Haldir;male;44
+helm;pla;pla;Helm;;80
+hobb;gro;hobbit;Hobbits;;127
+hton;pla;pla;Hobbiton;;59
+isen;pla;pla;Isengard;;165
+isil;per;men;Isildur;male;103
+lego;per;elves;Legolas;male;346
+lori;pla;pla;Lorien;;97
+loth;pla;pla;Lothlorien;;42
+mdoo;pla;pla;Mount Doom;;12
+merr;per;hobbit;Merry;male;595
+mord;pla;pla;Mordor;;265
+morg;pla;pla;Morgul;;72
+mori;pla;pla;Moria;;131
+nazg;gro;men;Nine Riders;;54
+nume;pla;pla;Numenor;;62
+orth;pla;pla;Orthanc;;83
+osgi;pla;pla;Osgiliath;;50
+pipp;per;hobbit;Pippin;male;771
+ring;thin;thing;Ring;;427
+rive;pla;pla;Rivendell;;145
+roha;pla;pla;Rohan;;263
+sams;per;hobbit;Sam;male;1400
+saru;per;ainur;Saruman;male;312
+saur;per;ainur;Sauron;male;339
+sfax;per;animal;Shadowfax;male;78
+shel;per;animal;Shelob;female;40
+shir;pla;pla;Shire;;411
+theod;per;men;Theoden;male;246
+thor;per;dwarf;Thorin;male;40
+thra;per;dwarf;Throin;male;33
+tiri;pla;pla;Minas Tirith;;110
+tomb;per;ainur;Bombadil;male;177
+treeb;per;ents;Treebeard;male;221
+orcs;gro;orcs;Orcs;;321
